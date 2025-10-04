@@ -37,4 +37,15 @@ Sistem ini juga otomatis membuat **jadwal angsuran** dengan rumus **anuitas**.
 ---
 
 ## 📂 Struktur Utama Proyek
-
+app/
+├── Http/
+│ └── Controllers/
+│ └── KreditController.php
+├── Models/
+│ ├── Kontrak.php
+│ └── JadwalAngsuran.php
+resources/
+├── views/
+│ ├── kredit/
+│ │ ├── form.blade.php
+│ │ └── result.blade.php
