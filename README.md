@@ -19,14 +19,6 @@ Sistem ini juga otomatis membuat **jadwal angsuran** dengan rumus **anuitas**.
 
 ---
 
-**Keterangan:**
-- `A` = Angsuran per bulan  
-- `P` = Pokok pinjaman  
-- `r` = Suku bunga per bulan  
-- `n` = Jumlah bulan (tenor)
-
----
-
 ## 🛠️ Teknologi yang Digunakan
 
 - **Laravel 11**
